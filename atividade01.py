@@ -58,5 +58,4 @@ class Livro:
         self.exibirnEmprestado()
 
 livro1 = Livro('Robinson Crusoe', 'Daniel Defoe', '232', 0)
-
 livro1.exibirDetalhes()
